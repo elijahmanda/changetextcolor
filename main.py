@@ -42,8 +42,7 @@ class Myapp(MDApp):
         self.root.ids.label.color = list_
         list_.clear()
 
-    #def get_color(self, *args):
-        #return self.set_color()
+
 
     
         
