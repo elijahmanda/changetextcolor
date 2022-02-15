@@ -1,7 +1,5 @@
 import random
-import re
 from kivymd.app import MDApp
-from kivymd.uix.boxlayout import BoxLayout
 from kivy.lang import Builder
 from kivymd.toast import toast
 kv  = '''
